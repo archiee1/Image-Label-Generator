@@ -1,12 +1,12 @@
 Steps to be followed - 
 
-Creating an Amazon S3 Bucket
-Uploading images to the S3 Bucket
-Installing configuring the AWS Command line interface (CLI)
-Importing libraries
-Adding detect_labels function
-Adding main function
-Running your python file
+1. Creating an Amazon S3 Bucket
+2 Uploading images to the S3 Bucket
+3. Installing configuring the AWS Command line interface (CLI)
+4. Importing libraries
+5. Adding detect_labels function
+6. Adding main function
+7. Running your python file
 
 Services Used 🛠
 Amazon S3: For storing the images in the process of generating labels.
